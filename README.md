@@ -1,7 +1,8 @@
-## IDA Python Scripts
+## IDAPython Scripts
 
 
 **Eddycat**
+
 Inspired by Alleycat
 
 Displays code paths between two functions
